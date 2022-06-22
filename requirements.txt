@@ -1,6 +1,7 @@
 # Python packages required
 sympy
 numpy
+scipy
 matplotlib
 numpy-stl
 jupyter
